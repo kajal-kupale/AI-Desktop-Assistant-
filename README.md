@@ -38,6 +38,7 @@ It listens to your voice commands and performs a variety of desktop operations l
 - Add **weather updates, news headlines, or calendar reminders**
 - Support for **GUI-based control panel**
 - Add **voice authentication security layer**
+- Create **Database for all features on large scale**
 
 ---
 

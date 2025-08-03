@@ -1,4 +1,4 @@
-# 🤖 JarvisAI-DesktopCompanion
+# 🤖 JarvisAI-Desktop Assistant 
 
 A powerful Python-based desktop AI voice assistant bot that mimics Jarvis AI from Iron Man!  
 It listens to your voice commands and performs a variety of desktop operations like opening apps, browsing websites, playing music, reporting date/time, taking screenshots, and much more.

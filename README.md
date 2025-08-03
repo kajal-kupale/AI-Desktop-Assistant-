@@ -45,7 +45,7 @@ It listens to your voice commands and performs a variety of desktop operations l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/JarvisAI-DesktopCompanion.git
+   git clone https://github.com/kajal-kupale/AI-Desktop-Assistant-.git
    cd JarvisAI-DesktopCompanion
 2. Install dependencies:
    ```bash

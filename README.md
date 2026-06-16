@@ -66,7 +66,7 @@ It listens to your voice commands and performs a variety of desktop operations l
 
 * "Open notepad"
 
----
+-----
 
 ## ✅ Requirements
 - Windows OS (recommended)

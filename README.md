@@ -80,8 +80,8 @@ It listens to your voice commands and performs a variety of desktop operations l
 ---
 
  ### ✅ Also include this `requirements.txt` file:
-
-``txt files : 
+ 
+ files : 
 
 - speechrecognition
 - pyttsx3
